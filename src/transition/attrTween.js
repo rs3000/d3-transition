@@ -1,4 +1,4 @@
-import {namespace} from "d3-selection";
+import {namespace as namespace} from "d3-selection";
 
 function attrTweenNS(fullname, value) {
   function tween() {
